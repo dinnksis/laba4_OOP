@@ -3,4 +3,6 @@ target_link_libraries(vector_main vector)
 
 add_executable(second second.cpp)
 
+add_executable(array_main array_main.cpp)
+target_link_libraries(array_main array)
 

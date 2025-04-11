@@ -13,6 +13,8 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELWITHDEBINFO ${CMAKE_CURRENT_SOURCE_DIR}/bi
 
 
 include_directories(vector)
+include_directories(array)
 
 add_subdirectory(vector)
 add_subdirectory(tests)
+add_subdirectory(array)
