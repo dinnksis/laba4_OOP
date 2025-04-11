@@ -1,4 +1,6 @@
 add_executable(vector_main vector_main.cpp)
 target_link_libraries(vector_main vector)
 
+add_executable(second second.cpp)
+
 
