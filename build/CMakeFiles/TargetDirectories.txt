@@ -1,0 +1,4 @@
+C:/labs.oop/laba4_OOP/build/CMakeFiles/ALL_BUILD.dir
+C:/labs.oop/laba4_OOP/build/CMakeFiles/ZERO_CHECK.dir
+C:/labs.oop/laba4_OOP/build/vector/CMakeFiles/vector.dir
+C:/labs.oop/laba4_OOP/build/tests/CMakeFiles/vector_main.dir
